@@ -20,5 +20,5 @@ jobs:
         python-version: '3.x'
         architecture: 'x64'
     - run : |
-        ./build
-        ./run
+        ./build.ps1
+        ./run.ps1
